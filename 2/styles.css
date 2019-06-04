@@ -20,6 +20,7 @@
 
 .nav a {
     height:30px;
+    color:#5468ff;
 }
 
 .nav a:hover {
@@ -33,6 +34,7 @@
     -webkit-box-shadow: 0 1px 15px rgba(27,31,35,0.15);  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
     -moz-box-shadow:    0 1px 15px rgba(27,31,35,0.15);  /* Firefox 3.5 - 3.6 */
     box-shadow:         0 1px 15px rgba(27,31,35,0.15);  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    transition: all 0.5s ease-in-out;
 }
 
 p {
@@ -67,6 +69,10 @@ h6 {
 .social-links a i {
     font-size:2rem;
     margin: .25rem .5rem;
+}
+
+.social-links a i:hover {
+    color:#5468ff;
 }
 
 .filter {
@@ -111,6 +117,24 @@ img:hover {
 }
 
 .card {
-    box-shadow: 0 1px 15px rgba(27,31,35,0.15);
     border:none;
+    /* box-shadow: 0 1px 15px rgba(27,31,35,0.15); */ /*This was my original shadow*/
+    /* box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2); */ /*This was the suggested shadow*/
+    box-shadow: 0 0px 10px rgba(154,160,185,.05), 0 0px 40px rgba(166,173,201,.2); /*This is the suggested shadow + y-tweak*/
+}
+
+.card-link i:hover {
+    color:#5468ff;
+}
+
+
+/* Contact Styles */
+.btn-nebula {
+    background-color:#5468ff;
+    color:white;
+}
+
+.btn-nebula:hover {
+    color:white;
+    box-shadow: inset 0px 0px 5px rgba(88, 88, 88, 1);
 }

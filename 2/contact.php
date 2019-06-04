@@ -125,7 +125,7 @@
 				<label for="message" class="mt-4">Message</label>
 				<textarea id="message" class="form-control" name="message"></textarea>
 								
-				<input type="submit" class="btn btn-primary mt-5" name="contact_submit" value="Submit">
+				<input type="submit" class="btn btn-nebula mt-5" name="contact_submit" value="Submit">
 			</div>
 		</form>
 		
