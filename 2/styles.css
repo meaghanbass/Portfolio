@@ -120,7 +120,10 @@ img:hover {
     border:none;
     /* box-shadow: 0 1px 15px rgba(27,31,35,0.15); */ /*This was my original shadow*/
     /* box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2); */ /*This was the suggested shadow*/
-    box-shadow: 0 0px 10px rgba(154,160,185,.05), 0 0px 40px rgba(166,173,201,.2); /*This is the suggested shadow + y-tweak*/
+    /*box-shadow: 0 0px 10px rgba(154,160,185,.05), 0 0px 40px rgba(166,173,201,.2);*/ /*This is the suggested shadow + y-tweak*/
+    -webkit-box-shadow: 0px 0px 16px #cdcdcd;
+    box-shadow: 0px 0px 16px #cdcdcd;
+    border-radius: 6px;
 }
 
 .card-link i:hover {

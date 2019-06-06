@@ -54,6 +54,9 @@
                     <a href="https://twitter.com/meaghankb_?lang=en" target="_blank">
                         <i class="fab fa-twitter"></i>
                     </a>
+                    <a href="https://codepen.io/meaghanbass/#" target="_blank">
+                        <i class="fab fa-codepen"></i>
+                    </a>
                 </div>
             </div>
         </div>
