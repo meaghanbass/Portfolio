@@ -29,8 +29,8 @@ class Project {
         echo '<h5 class="card-title">' . $this->projectTitle . '</h5>
             <p class="card-text">' . $this->projectSummary . '</p>
             <p class="tools">' . $this->projectTools . '</p>
-            <a href="' . $this->projectLinkGithub . '" target="_blank" class="card-link"><i class="fab fa-github"></i></a>
-            <a href="' . $this->projectLinkDirect . '" target="_blank" class="card-link"><i class="fas fa-external-link-alt"></i></a>';
+            <a href="' . $this->projectLinkGithub . '" target="_blank" class="card-link git-link"><i class="fab fa-github"></i></a>
+            <a href="' . $this->projectLinkDirect . '" target="_blank" class="card-link direct-link"><i class="fas fa-external-link-alt"></i></a>';
     }
 }
 
@@ -52,7 +52,24 @@ $project2 = new Project(
     "https://github.com/meaghanbass/GH-QuantumDeveloperTheme",
     "https://github.com/meaghanbass/GH-QuantumDeveloperTheme",
     "https://marketplace.visualstudio.com/items?itemName=MeaghanBass.quantum-developer-theme"
-)
+);
 
+$project3 = new Project(
+    "Global Web Properties",
+    "Designed and built new site for web services company consisting of landing and contact pages. Built with Bootstrap and integrated with MailChimp. Continued to work with the agency on a per-project basis.",
+    "Bootstrap | Sass | JS | PHP | Github",
+    "http://globalwebproperties.com/",
+    "https://github.com/meaghanbass/GHGlobalWebProperties",
+    "http://globalwebproperties.com/"
+);
+
+$project4 = new Project(
+    "Shirt Wholesaler, Inc",
+    "Led project to redesign e-commerce website from an outdated early 2000s site to one that is modern and user-friendly. Integrated APIs to show real-time stock data and integrated payment processing with Authorize.net. Designed promotional images for website using Photoshop and Illustrator.",
+    "HTML5 | CSS3 | JS | PHP | AWS",
+    "https://www.shirtwholesaler.com/",
+    "https://www.shirtwholesaler.com/",
+    "https://www.shirtwholesaler.com/"
+);
 
 ?>

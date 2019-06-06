@@ -126,6 +126,11 @@ img:hover {
     border-radius: 6px;
 }
 
+.card-link {
+    margin-left:0 !important;
+    margin-right:20px;
+}
+
 .card-link i:hover {
     color:#5468ff;
 }
@@ -140,4 +145,14 @@ img:hover {
 .btn-nebula:hover {
     color:white;
     box-shadow: inset 0px 0px 5px rgba(88, 88, 88, 1);
+}
+
+
+/* PHP Class Key Disablers */
+.nogitlink .card-body .git-link{
+    display:none;
+}
+
+.nodirectlink .card-body .direct-link{
+    display:none;
 }

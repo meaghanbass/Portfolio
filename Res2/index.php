@@ -80,35 +80,31 @@
                 <h3>Portfolio</h3>
             </div>
 
-            <div class="card w-75" >
+            <!-- JobLister -->
+            <div class="card w-75 nodirectlink" >
                 <div class="card-body">
                     <?php echo $project1->displayProject(); ?>
                 </div>
             </div>
 
+            <!-- Quantum Developer Theme -->
             <div class="card mt-4 w-75" >
                 <div class="card-body">
                     <?php echo $project2->displayProject(); ?>
                 </div>
             </div>
             
+            <!-- Global Web Properties -->
             <div class="card mt-4 w-75" >
                 <div class="card-body">
-                    <h5 class="card-title">Global Web Properties</h5>
-                    <p class="card-text">Designed and built new site for web services company consisting of landing and contact pages. Built with Bootstrap and integrated with MailChimp. Continued to work with the agency on a per-project basis.</p>
-                    <p class="tools">Bootstrap | Sass | JS | PHP | Github</p>
-                    <a href="https://github.com/meaghanbass/GHGlobalWebProperties" target="_blank" class="card-link"><i class="fab fa-github"></i></a>
-                    <a href="http://globalwebproperties.com/" target="_blank" class="card-link"><i class="fas fa-external-link-alt"></i></a>
+                    <?php echo $project3->displayProject(); ?>
                 </div>
             </div>
 
-            <div class="card mt-4 w-75" >
+            <!-- Shirt Wholesaler -->
+            <div class="card mt-4 w-75 nogitlink" >
                 <div class="card-body">
-                    <h5 class="card-title">Shirt Wholesaler, Inc</h5>
-                    <p class="card-text">Led project to redesign e-commerce website from an outdated early 2000s site to one that is modern and user-friendly. Integrated APIs to show real-time stock data and integrated payment processing with Authorize.net. Designed promotional images for website using Photoshop and Illustrator.</p>
-                    <p class="tools">HTML5 | CSS3 | JS | PHP | AWS</p>
-                    <!-- <a href="#" target="_blank" class="card-link"><i class="fab fa-github"></i></a> -->
-                    <a href="https://www.shirtwholesaler.com/" target="_blank" class="card-link"><i class="fas fa-external-link-alt"></i></a>
+                    <?php echo $project4->displayProject(); ?>
                 </div>
             </div>
         </div>
