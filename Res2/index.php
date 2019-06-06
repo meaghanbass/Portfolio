@@ -25,6 +25,7 @@
                 <div class="row justify-content-center nav fixed-top pt-4 pb-3 bg-white">
                     <a href="#about" class="mr-3">About Me</a>
                     <a href="#portfolio" class="ml-3 mr-3">Portfolio</a>
+                    <a href="resume2.php" target="_blank" class="ml-3 mr-3">Resume</a>
                     <a href="#contact" class="ml-3">Contact</a>
                 </div>
 
