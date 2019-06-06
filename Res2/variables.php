@@ -3,10 +3,11 @@
 $contactName = "Meaghan Bass";
 $contactTitle = "Front End Developer";
 $contactLocation = "San Diego, CA";
-$contactPhone = "619-770-7275";
+$contactPhone = "619.770.7275";
 $contactEmail = "meaghan.bass@gmail.com";
-$contactWebsite = "www.meaghanbass.io";
+$contactWebsite = "meaghanbass.io";
 $contactGithub = "https://github.com/meaghanbass";
+$contactGithubHandle = "meaghanbass";
 $contactLinkedin = "https://www.linkedin.com/in/meaghanbass/";
 $contactTwitter = "https://twitter.com/meaghankb_?lang=en";
 $contactCodepen = "https://codepen.io/meaghanbass/#";
