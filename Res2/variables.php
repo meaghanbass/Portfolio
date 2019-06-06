@@ -14,15 +14,6 @@ $contactCodepen = "https://codepen.io/meaghanbass/#";
 // About Variables
 $aboutMe = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ligula orci, euismod a finibus ac, blandit ultricies risus. Etiam hendrerit, purus ac venenatis rutrum, augue libero tristique nibh, vel rhoncus lorem massa ut neque. Nulla egestas mattis suscipit. Pellentesque mattis, elit finibus lobortis malesuada, purus elit dignissim velit, et finibus nisl enim eu urna. Ut sodales nibh sed turpis tempor sagittis id vel arcu. Cras eu porta enim, ut accumsan eros. Fusce ut vestibulum mi.";
 
-// Project Variables
-    // Create an object?
-// $projectTitle = 
-// $projectSummary = 
-// $projectTools = 
-// $projectLinkMain = 
-// $projectLinkGithub = 
-// $projectLinkDirect = 
-
 class Project {
     // Constructor
     public function __construct($projectTitle, $projectSummary, $projectTools, $projectLinkResume, $projectLinkGithub, $projectLinkDirect) {
@@ -35,24 +26,33 @@ class Project {
     }
 
     public function displayProject() {
-        echo 
+        echo '<h5 class="card-title">' . $this->projectTitle . '</h5>
+            <p class="card-text">' . $this->projectSummary . '</p>
+            <p class="tools">' . $this->projectTools . '</p>
+            <a href="' . $this->projectLinkGithub . '" target="_blank" class="card-link"><i class="fab fa-github"></i></a>
+            <a href="' . $this->projectLinkDirect . '" target="_blank" class="card-link"><i class="fas fa-external-link-alt"></i></a>';
     }
 }
+
+
+// Projects
+$project1 = new Project(
+    "JobLister", 
+    "Job board built with PHP and MySQL. Able to view jobs by category, add new listings, and update existing listings.", 
+    "PHP | Bootstrap 4 | MySQL | Github", 
+    "https://github.com/meaghanbass/CP-JobLister", 
+    "https://github.com/meaghanbass/CP-JobLister", 
+    "https://github.com/meaghanbass/CP-JobLister"
+);
+
+$project2 = new Project(
+    "Quantum Developer Theme for VSCode",
+    "Visual Studio Code theme based on the Firefox Developer Edition inspector colors. This theme is open-source and anyone is welcome to submit PRs, open issues, etc.",
+    "JSON | Visual Studio Code | Github | Azure DevOps",
+    "https://github.com/meaghanbass/GH-QuantumDeveloperTheme",
+    "https://github.com/meaghanbass/GH-QuantumDeveloperTheme",
+    "https://marketplace.visualstudio.com/items?itemName=MeaghanBass.quantum-developer-theme"
+)
+
 
 ?>
-
-
-class Student {
-    // constructor
-    public function __construct($first_name, $last_name) {
-        $this->first_name = $first_name;
-        $this->last_name = $last_name;
-    }
-
-    public function say_name() {
-        echo "My name is " . $this->first_name . " " . $this->last_name . ".\n";
-    }
-}
-
-$alex = new Student("Alex", "Jones");
-$alex->say_name();

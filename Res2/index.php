@@ -82,21 +82,13 @@
 
             <div class="card w-75" >
                 <div class="card-body">
-                    <h5 class="card-title">JobLister</h5>
-                    <p class="card-text">Job board built with PHP and MySQL. Able to view jobs by category, add new listings, and update existing listings.</p>
-                    <p class="tools">PHP | Bootstrap 4 | MySQL | Github</p>
-                    <a href="https://github.com/meaghanbass/CP-JobLister" target="_blank" class="card-link"><i class="fab fa-github"></i></a>
-                    <!-- <a href="#" target="_blank" class="card-link"><i class="fas fa-external-link-alt"></i></a> -->
+                    <?php echo $project1->displayProject(); ?>
                 </div>
             </div>
 
             <div class="card mt-4 w-75" >
                 <div class="card-body">
-                    <h5 class="card-title">Quantum Developer Theme for VSCode</h5>
-                    <p class="card-text">Visual Studio Code theme based on the Firefox Developer Edition inspector colors. This theme is open-source and anyone is welcome to submit PRs, open issues, etc.</p>
-                    <p class="tools">JSON | Visual Studio Code | Github | Azure DevOps</p>
-                    <a href="https://github.com/meaghanbass/GH-QuantumDeveloperTheme" target="_blank" class="card-link"><i class="fab fa-github"></i></a>
-                    <a href="https://marketplace.visualstudio.com/items?itemName=meaghanbass.quantum-developer-theme" target="_blank" class="card-link"><i class="fas fa-external-link-alt"></i></a>
+                    <?php echo $project2->displayProject(); ?>
                 </div>
             </div>
             
