@@ -616,6 +616,19 @@ mso-border-bottom-alt:solid windowtext .75pt;padding:0in 0in 1.0pt 0in'>
 <!-- Line Break -->
 <p class=MsoNoSpacing><span style='font-family:"Source Sans Pro",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
+<!--
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+-->
+
 <!-- Recent Work and projects -->
 
     <!-- Project -->
@@ -731,6 +744,20 @@ italic'><o:p>&nbsp;</o:p></span></span></p>
 <!-- Line Break -->
 <p class=MsoNoSpacing><span style='font-family:"Source Sans Pro",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
+<!--
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+-->
+
+<!-- Experience -->
 <!-- Section Heading -->
 <div style='mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.0pt;
 mso-border-bottom-alt:solid windowtext .75pt;padding:0in 0in 1.0pt 0in'>
@@ -773,129 +800,152 @@ style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif
     execution of all inventory shipments, audits, charge-sends, and other retail,
     inventory and finance related directives.<o:p></o:p></span></p>
 
+<!-- Line Break -->
+<p class=MsoNoSpacing style='line-height:115%;tab-stops:right 7.5in'><strong><span
+style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
+mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></strong></p>
+
 <!-- Experience Block -->
 <p class=MsoNoSpacing style='line-height:115%;tab-stops:right 7.5in'><strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
-mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></strong></p>
-
-<p class=MsoNoSpacing style='line-height:115%;tab-stops:right 7.5in'><strong><span
-style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
 mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>Front End Developer
-– Web Domain Solutions<span style='mso-tab-count:1'>           </span></span></strong><strong><span
+&ndash; Web Domain Solutions<span style='mso-tab-count:1'>           </span></span></strong><strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
 mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;font-weight:normal;
-mso-bidi-font-weight:bold'>June 2015 – September 2015</span></strong><span
+mso-bidi-font-weight:bold'>June 2015 &ndash; September 2015</span></strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'><o:p></o:p></span></p>
 
-<p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
-115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
-mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
-11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Built and
-deployed front-end websites and applications within an Agile development team for
-mid-to-enterprise level projects.<o:p></o:p></span></p>
+    <p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
+    115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
+    mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
+    11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Built and
+    deployed front-end websites and applications within an Agile development team for
+    mid-to-enterprise level projects.<o:p></o:p></span></p>
 
-<p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
-115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
-mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
-11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Built
-websites from Photoshop mock-ups, debug and resolve website issues.<o:p></o:p></span></p>
+    <p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
+    115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
+    mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
+    11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Built
+    websites from Photoshop mock-ups, debug and resolve website issues.<o:p></o:p></span></p>
 
-<p class=Emphasis-Small><span class=MsoIntenseEmphasis><span style='color:#6663E3;
-mso-bidi-font-style:normal'>(HTML5, CSS3, JS, MySQL, PHP, Angular, WordPress, Shopify,
-Bootstrap, Jira)</span></span></p>
+    <p class=Emphasis-Small><span class=MsoIntenseEmphasis><span style='color:#6663E3;
+    mso-bidi-font-style:normal'>(HTML5, CSS3, JS, MySQL, PHP, Angular, WordPress, Shopify,
+    Bootstrap, Jira)</span></span></p>
 
+<!-- Line Break -->
 <p class=MsoNoSpacing style='line-height:115%;tab-stops:right 7.5in'><strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
 mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></strong></p>
 
+<!-- Experience Block -->
 <p class=MsoNoSpacing style='line-height:115%;tab-stops:right 7.5in'><strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
 mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>Operations &amp;
-Office Manager – Shirt Wholesaler, Inc.<span style='mso-tab-count:1'> </span></span></strong><strong><span
+Office Manager &ndash; Shirt Wholesaler, Inc.<span style='mso-tab-count:1'> </span></span></strong><strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
 mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;font-weight:normal;
-mso-bidi-font-weight:bold'>May 2012 – August 2018</span></strong><span
+mso-bidi-font-weight:bold'>May 2012 &ndash; August 2018</span></strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'><o:p></o:p></span></p>
 
-<p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
-115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
-mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
-11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Oversaw
-e-commerce and office operations, managing a team of 15 direct reports.<o:p></o:p></span></p>
+    <p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
+    115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
+    mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
+    11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Oversaw
+    e-commerce and office operations, managing a team of 15 direct reports.<o:p></o:p></span></p>
 
-<p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
-115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
-mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
-11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Managed vendor
-relationships to create optimized fulfillment, shipping and pricing solutions.<o:p></o:p></span></p>
+    <p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
+    115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
+    mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
+    11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Managed vendor
+    relationships to create optimized fulfillment, shipping and pricing solutions.<o:p></o:p></span></p>
 
-<p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
-115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
-mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
-11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Created
-efficient solutions for inter-department processes that led to significantly faster
-execution of repetitive tasks.<o:p></o:p></span></p>
+    <p class=MsoNoSpacing style='margin-left:.5in;text-indent:-.25in;line-height:
+    115%;mso-list:l1 level1 lfo2'><![if !supportLists]><span style='font-size:9.0pt;
+    mso-bidi-font-size:11.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+    Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+    style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span></span></span><![endif]><span style='font-size:9.0pt;mso-bidi-font-size:
+    11.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Created
+    efficient solutions for inter-department processes that led to significantly faster
+    execution of repetitive tasks.<o:p></o:p></span></p>
 
+<!-- Line Break -->
 <p class=MsoNoSpacing style='line-height:115%'><span style='font-family:"Source Sans Pro",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
+<!-- Line Break -->
 <p class=MsoNoSpacing style='line-height:115%'><span style='font-family:"Source Sans Pro",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
+<!-- Education -->
+<!--
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||          ||||||||||||||||||||||||||||||||||||||||
+-->
+
+<!-- Section Heading -->
 <div style='mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.0pt;
 mso-border-bottom-alt:solid windowtext .75pt;padding:0in 0in 1.0pt 0in'>
-
-<p class=MsoNoSpacing align=center style='text-align:center;border:none;
-mso-border-bottom-alt:solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in'><b
-style='mso-bidi-font-weight:normal'><span style='font-family:"Source Sans Pro",sans-serif;
-mso-bidi-font-family:"Times New Roman \(Body CS\)";letter-spacing:4.0pt'>EDUCATION<o:p></o:p></span></b></p>
-
+    <p class=MsoNoSpacing align=center style='text-align:center;border:none;
+    mso-border-bottom-alt:solid windowtext .75pt;padding:0in;mso-padding-alt:0in 0in 1.0pt 0in'><b
+    style='mso-bidi-font-weight:normal'><span style='font-family:"Source Sans Pro",sans-serif;
+    mso-bidi-font-family:"Times New Roman \(Body CS\)";letter-spacing:4.0pt'>EDUCATION<o:p></o:p></span></b></p>
 </div>
 
+<!-- Line Break -->
 <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
 text-align:center'><strong><span style='font-family:"Source Sans Pro",sans-serif;
 mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></strong></p>
 
+<!-- Education Entry -->
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 115%'><strong><span style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
 mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>State University of
 New York at Oswego<o:p></o:p></span></strong></p>
+    <p class=MsoNoSpacing style='line-height:115%'><span style='font-size:9.0pt;
+    line-height:115%;font-family:"Source Sans Pro",sans-serif'>Major in Economics,
+    Minor in Business Administration<o:p></o:p></span></p>
 
-<p class=MsoNoSpacing style='line-height:115%'><span style='font-size:9.0pt;
-line-height:115%;font-family:"Source Sans Pro",sans-serif'>Major in Economics,
-Minor in Business Administration<o:p></o:p></span></p>
-
+<!-- Line Break -->
 <p class=MsoNoSpacing style='line-height:115%'><span style='font-size:9.0pt;
 line-height:115%;font-family:"Source Sans Pro",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
+<!-- Education Entry -->
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 115%'><strong><span style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
-mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>Coursera – </span></strong><span
+mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>Coursera &ndash; </span></strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Front
 End Web Development with React Specialization<b><o:p></o:p></b></span></p>
 
+<!-- Education Entry -->
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 115%'><strong><span style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
-mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>Coursera – </span></strong><span
+mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>Coursera &ndash; </span></strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Front
 End JavaScript Frameworks: Angular<o:p></o:p></span></p>
 
+<!-- Education Entry -->
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
 115%'><strong><span style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif;
-mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>Coursera – </span></strong><span
+mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'>Coursera &ndash; </span></strong><span
 style='font-size:9.0pt;line-height:115%;font-family:"Source Sans Pro",sans-serif'>Building
 Web Applications in PHP<strong><span style='font-family:"Source Sans Pro",sans-serif;
 mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi'><o:p></o:p></span></strong></span></p>
@@ -910,11 +960,9 @@ mso-break-type:section-break'>
 </span></strong>
 
 <div class=WordSection2>
-
-<p class=MsoNoSpacing style='line-height:115%;tab-stops:13.5pt'><b
-style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;line-height:
-115%;font-family:"Source Sans Pro",sans-serif'><o:p>&nbsp;</o:p></span></b></p>
-
+    <p class=MsoNoSpacing style='line-height:115%;tab-stops:13.5pt'><b
+    style='mso-bidi-font-weight:normal'><span style='font-size:9.0pt;line-height:
+    115%;font-family:"Source Sans Pro",sans-serif'><o:p>&nbsp;</o:p></span></b></p>
 </div>
 
 </body>
