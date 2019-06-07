@@ -12,7 +12,7 @@
     $contactGithubHandle = "meaghanbass";
     $contactLinkedin = "https://www.linkedin.com/in/meaghanbass/";
     $contactTwitter = "https://twitter.com/meaghankb_?lang=en";
-    $contactCodepen = "https://codepen.io/meaghanbass/#";
+    $contactCodepen = "https://codepen.io/meaghanbass/";
 
 // About Variables
     $aboutMe = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ligula orci, euismod a finibus ac, blandit ultricies risus. Etiam hendrerit, purus ac venenatis rutrum, augue libero tristique nibh, vel rhoncus lorem massa ut neque. Nulla egestas mattis suscipit. Pellentesque mattis, elit finibus lobortis malesuada, purus elit dignissim velit, et finibus nisl enim eu urna. Ut sodales nibh sed turpis tempor sagittis id vel arcu. Cras eu porta enim, ut accumsan eros. Fusce ut vestibulum mi.";

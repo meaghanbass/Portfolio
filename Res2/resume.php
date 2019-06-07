@@ -36,6 +36,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List href="ResDoc_files/filelist.xml">
 <link rel=Edit-Time-Data href="ResDoc_files/editdata.mso">
+<title><?php echo $contactName; ?> | Resume</title>
 
 <style>
 <!--

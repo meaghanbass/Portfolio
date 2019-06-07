@@ -20,10 +20,13 @@
 
     <!-- Site Wrapper -->
     <div class="container">
-        <div class="row align-items-center page">
+
+        <!-- Page 1 -->
+        <div class="row align-items-center page" id="home">
             <div class="col align-self-center text-center">
                 <div class="row justify-content-center nav fixed-top pt-4 pb-3 bg-white">
-                    <a href="#about" class="mr-3">About Me</a>
+                    <a href="#home" class="mr-3">Home</a>
+                    <a href="#about" class="ml-3 mr-3">About Me</a>
                     <a href="#portfolio" class="ml-3 mr-3">Portfolio</a>
                     <a href="resume.php" target="_blank" class="ml-3 mr-3">Resume</a>
                     <a href="#contact" class="ml-3">Contact</a>
@@ -65,6 +68,7 @@
             </div>
         </div>
 
+        <!-- Page 2 -->
         <div class="row align-items-center page" id="about">
             <div class="col align-self-center text-center">
                 
@@ -76,6 +80,7 @@
             </div>
         </div>
 
+        <!-- Page 3 -->
         <div class="row justify-content-center pt-5" id="portfolio">
             <div class="col-12 text-center pb-5 pt-5">
                 <h3>Portfolio</h3>
@@ -110,24 +115,17 @@
             </div>
         </div>
 
+        <!-- Page 4 -->
         <div class="row align-items-center page" id="contact">
-            <div class="col align-self-center text-center">
-                
-                <h3 class="pb-5">Contact</h3>
-                <div class="col-10 offset-1 col-sm-6 offset-sm-3">
-                    <p><?php echo $contactEmail; ?></p>
-                    <p><?php echo $contactGithub; ?></p>
-                </div>
-                
-            </div>
-        </div>
-
-        <div class="row align-items-center page" id="contact2">
             <div class="w-50 mx-auto">
+                <div class="col align-self-center text-center">
+                    <h3 class="pb-5">Contact</h3>
+                </div>
             <?php include 'contact.php'; ?>
             </div>
         </div>
 
+        <!-- Footer -->
         <div class="footer text-center pt-5">
             <h6>Made with <i class="fas fa-heart" style="color:#bd1b1b;"></i>. Assistance from <i class="fas fa-paw"></i>.</h6>
             <h6>&copy; 2019 - Meaghan Bass</h6>
@@ -135,5 +133,6 @@
 
     </div>
     <!-- End Site Wrapper -->
+
 </body>
 </html>
