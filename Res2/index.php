@@ -21,7 +21,7 @@
     <!-- Site Wrapper -->
     <div class="container">
 
-        <!-- Page 1 -->
+        <!-- Page 1 Contact -->
         <div class="row align-items-center page" id="home">
             <div class="col align-self-center text-center">
                 <div class="row justify-content-center nav fixed-top pt-4 pb-3 bg-white">
@@ -68,7 +68,7 @@
             </div>
         </div>
 
-        <!-- Page 2 -->
+        <!-- Page 2 About Me -->
         <div class="row align-items-center page" id="about">
             <div class="col align-self-center text-center">
                 
@@ -80,7 +80,7 @@
             </div>
         </div>
 
-        <!-- Page 3 -->
+        <!-- Page 3 Portfolio -->
         <div class="row justify-content-center pt-5" id="portfolio">
             <div class="col-12 text-center pb-5 pt-5">
                 <h3>Portfolio</h3>
@@ -115,7 +115,7 @@
             </div>
         </div>
 
-        <!-- Page 4 -->
+        <!-- Page 4 Contact -->
         <div class="row align-items-center page" id="contact">
             <div class="w-50 mx-auto">
                 <div class="col align-self-center text-center">

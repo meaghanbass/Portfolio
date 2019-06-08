@@ -1,137 +1,74 @@
-<?php
-	
-	/*
-		NOTE:
-		In the form in contact.php, the name text field has the name "name"
-		If the user submits the form, the $_POST['name'] variable will be
-		automatically created, and will contain the text they typed into
-		the field. The $_POST['email'] variable will contain whatever they typed
-		into the email field.
-	
-	
-		PHP used in this script:
-		
-		preg_match()
-		- Perform a regular expression match
-		- http://ca2.php.net/preg_match
-		
-		isset()
-		- Determine if a variable is set and is not NULL
-		- http://ca2.php.net/manual/en/function.isset.php
-		
-		$_POST
-		- An associative array of variables passed to the current script via the HTTP POST method.
-		- http://www.php.net/manual/en/reserved.variables.post.php
-		
-		trim()
-		- Strip whitespace (or other characters) from the beginning and end of a string
-		- http://www.php.net/manual/en/function.trim.php
-		
-		exit
-		- Output a message and terminate the current script
-		- http://www.php.net//manual/en/function.exit.php
-		
-		die()
-		- Equivalent to exit
-		- http://ca1.php.net/manual/en/function.die.php
-		
-		wordwrap()
-		- Wraps a string to a given number of characters
-		- http://ca1.php.net/manual/en/function.wordwrap.php
-		
-		mail()
-		- Send mail
-		- http://ca1.php.net/manual/en/function.mail.php
-	*/
-	
-?>
+<form name="htmlform" method="post" action="html_form_send.php">
+    <div class="form-group">
+        <label for="first_name" class="mt-4">Name</label>
+		<input type="text" class="form-control" id="name" name="name">
 
-	<div id="">
-		<?php
-	
-		// Check for Header Injections
-		function has_header_injection($str) {
-			return preg_match( "/[\r\n]/", $str );
-		}
-		
-		if (isset($_POST['contact_submit'])) {
-			
-			// Assign trimmed form data to variables
-			// Note that the value within the $_POST array is looking for the HTML "name" attribute, i.e. name="email"
-			$name	= trim($_POST['name']);
-			$email	= trim($_POST['email']);
-			$msg	= $_POST['message']; // no need to trim message
-		
-			// Check to see if $name or $email have header injections
-			if (has_header_injection($name) || has_header_injection($email)) {
-				
-				die(); // If true, kill the script
-				
-			}
-			
-			if (!$name || !$email || !$msg) {
-				echo '<h4 class="error">All fields required.</h4>';
-				exit;
-			}
-			
-			// Add the recipient email to a variable
-			$to	= "meaghan.bass@gmail.com";
-			
-			// Create a subject
-			$subject = "$name sent a message via your contact form";
-			
-			// Construct the message
-			$message .= "Name: $name\r\n";
-			$message .= "Email: $email\r\n\r\n";
-			$message .= "Message:\r\n$msg";
-			
-			// If the subscribe checkbox was checked
-			if (isset($_POST['subscribe']) && $_POST['subscribe'] == 'Subscribe' ) {
-			
-				// Add a new line to the $message
-				$message .= "\r\n\r\nPlease add $email to the mailing list.\r\n";
-				
-			}
-		
-			$message = wordwrap($message, 72); // Keep the message neat and tidy
-		
-			// Set the mail headers into a variable
-			$headers = "MIME-Version: 1.0\r\n";
-			$headers .= "Content-type: text/plain; charset=iso-8859-1\r\n";
-			$headers .= "From: " . $name . " <" . $email . ">\r\n";
-			$headers .= "X-Priority: 1\r\n";
-			$headers .= "X-MSMail-Priority: High\r\n\r\n";
-			
-			// Send the email!
-			mail($to, $subject, $message, $headers);
-		?>
-		
-		<!-- Show success message after email has sent -->
-		<p>Thanks! I'll get back to you ASAP!</p>
-		<p><a href="index.php" class="button block">&laquo; Go to Home Page</a></p>
-		
-		<?php
-			} else {
-		?>
+        <label for="email" class="mt-4">Email Address</label>
+        <input type="email" class="form-control" id="email" name="email">
 
-		<form method="post" action="index.php#contact2">
-			<div class="form-group">
-				<label for="name" class="mt-4">Name</label>
-				<input type="text" class="form-control" id="name" name="name">
-				
-				<label for="email" class="mt-4">Email Address</label>
-				<input type="email" class="form-control" id="email" name="email">
-				
-				<label for="message" class="mt-4">Message</label>
-				<textarea id="message" class="form-control" name="message"></textarea>
-								
-				<input type="submit" class="btn btn-nebula mt-5" name="contact_submit" value="Submit">
-			</div>
-		</form>
-		
-		<?php
-			}
-		?>
-	</div><!-- contact -->
-			
+        <label for="message" class="mt-4">Message</label>
+        <textarea id="message" class="form-control" name="message"></textarea>
 
+        <input type="submit" class="btn btn-nebula mt-5" name="contact_submit" value="Submit">
+    </div>
+
+
+
+
+
+
+
+<table width="450px">
+</tr>
+<!-- <tr>
+ <td valign="top">
+  <label for="first_name">First Name *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="first_name" maxlength="50" size="30">
+ </td>
+</tr> -->
+ 
+<!-- <tr>
+ <td valign="top">
+  <label for="last_name">Last Name *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="last_name" maxlength="50" size="30">
+ </td>
+</tr> -->
+
+<!-- <tr>
+ <td valign="top">
+  <label for="email">Email Address *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="email" maxlength="80" size="30">
+ </td>
+</tr> -->
+
+<!-- <tr>
+ <td valign="top">
+  <label for="telephone">Phone Number</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="telephone" maxlength="30" size="30">
+ </td>
+</tr> -->
+
+<!-- <tr>
+ <td valign="top">
+  <label for="message">Message</label>
+ </td>
+ <td valign="top">
+  <textarea  name="message" maxlength="1000" cols="25" rows="6"></textarea>
+ </td>
+</tr> -->
+
+<!-- <tr>
+ <td colspan="2" style="text-align:center">
+  <input type="submit" value="Submit"/>
+ </td>
+</tr> -->
+</table>
+</form>
