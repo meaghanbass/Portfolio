@@ -148,7 +148,7 @@ img:hover {
 }
 
 
-/* PHP Class Key Disablers */
+/* PHP Class Key Card-Link Disablers */
 .nogitlink .card-body .git-link{
     display:none;
 }

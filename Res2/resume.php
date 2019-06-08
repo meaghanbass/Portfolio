@@ -1,5 +1,6 @@
 <?php include 'variables.php'; ?>
 <?php include 'https://use.fontawesome.com/releases/v5.7.2/css/all.css'; ?>
+
  <!-- EXPORT BUTTON -->
 <style>
 .input-button {
@@ -9,18 +10,40 @@
 	border: 1px solid transparent;
 	padding: .375rem .75rem;
 	border-radius: .25rem;
+	font-size:13px;
+	line-height:18px;
 	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
 .input-button:focus {
 	box-shadow: none;
 	outline:none;
 }
+
+form {
+	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+	color:white !important;
+	font-size:13px;
+	line-height:18px;
+}
+
+a {
+	color:white !important;
+	font-size:13px;
+	line-height:18px;
+}
+
+form a:link {
+	text-decoration:none;
+}
 </style>
 
- <form name="export-button" action="<?php echo($_SERVER['PHP_SELF']); ?>" method="post"">
-  <input type="submit" name="submit_docs" value="Download Resume" class="input-button" />
+<form name="export-button" action="<?php echo($_SERVER['PHP_SELF']); ?>" method="post">
+  <input type="submit" name="submit_docs" value="Download Resume - PC" class="input-button" />
+  <a href="resume.php" download="<?php echo $contactName; ?> Resume.doc" class="input-button">Download Resume - Mac</a>
 </form>
+
 <!-- END EXPORT BUTTON -->
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
