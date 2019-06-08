@@ -1,5 +1,4 @@
 <?php include 'variables.php'; ?>
-<?php include 'https://use.fontawesome.com/releases/v5.7.2/css/all.css'; ?>
 
  <!-- EXPORT BUTTON -->
 <style>
